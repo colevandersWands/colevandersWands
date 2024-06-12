@@ -1,6 +1,6 @@
 # Evan Cole
 
-> What if best practice was common practice?
+_What if best practice was common practice?_
 
 [email](mailto:email@evancole.be)@[evancole.be](https://evancole.be)
 
